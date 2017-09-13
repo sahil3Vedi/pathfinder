@@ -1,5 +1,5 @@
 {
-  "name": "find-a-route",
+  "name": "pathfinder",
   "version": "1.0.0",
   "description": "App for finding routes.",
   "main": "index.js",
@@ -24,11 +24,9 @@
     "webpack-dev-server": "^2.4.5"
   },
   "dependencies": {
-    "axios": "^0.16.2",
     "babel-preset-stage-1": "^6.1.18",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-google-maps": "^7.3.0",
     "react-redux": "4.3.0",
     "react-router-dom": "^4.2.2",
     "redux": "^3.0.4",

@@ -1,0 +1,61 @@
+
+
+body {
+    background: #F7F7F7;
+}
+
+.navbar, .footer {
+    background: #18356C;
+    color: white;
+}
+
+.navbar a {
+    font-size: 25px;
+    color: white;
+    width: 150px;;
+}
+
+#form {
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+#routes {
+    background: white;
+    margin: 10px auto;
+}
+
+
+main {
+    padding: 5%;
+    display: flex;
+    min-height: 75vh;
+    flex-direction: column;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+
+footer {
+    flex: 1;
+    text-align: center;
+}
+
+.footer a {
+    color: white;
+}
+
+#map {
+    height: 600px;
+}
+
+#route-list-heading {
+    text-align: center;
+    margin: 20px;
+}
+
+
+.error-message {
+    text-align: center;
+    color: orangered;
+}
