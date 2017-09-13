@@ -23,7 +23,7 @@ export default class App extends Component {
               <Switch>
                 <Route exact path="/" component={LandingPage} />
                 <Route path="/route/:id" component={RouteDetails} />
-                <Route render={() => <p>Not found</p>} />
+                <Route render={() => <h3 className="title is-3 error-message">Not found</h3>} />
               </Switch>
             </main>
             <Footer />
