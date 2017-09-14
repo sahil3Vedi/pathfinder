@@ -34,7 +34,7 @@ Clone the repository:
 git clone https://github.com/alan2207/pathfinder.git
 ```
 
-Enter in the cloned folder:
+Navigate to the cloned folder:
 ```
 cd pathfinder
 ```
