@@ -31,7 +31,7 @@ Or if you would rather install it on your own machine, tweak it, or whatever, yo
 
 Clone the repository:
 ```
-git clone https://github.com/alan2207/pathfinder.git
+git clone https://github.com/sahil3vedi/pathfinder.git
 ```
 
 Navigate to the cloned folder:
