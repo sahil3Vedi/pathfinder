@@ -7,16 +7,9 @@ export default class Footer extends React.Component {
       <footer className="footer">
         <div className="container">
           <div className="content has-text-centered">
-            <p>
-              <a
-                className="icon"
-                href="https://github.com/alan2207/pathfinder"
-                target="_blank"
-              >
-                Repository
-              </a>
-            </p>
-            <p>Created by <a href="https://github.com/alan2207" target="_blank">alan2207</a></p>
+            <p>Mihir Kumar Singh</p>
+            <p>Sahil Singh</p>
+            <p>Tejas Niroula</p>
           </div>
         </div>
       </footer>
