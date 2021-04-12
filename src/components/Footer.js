@@ -7,9 +7,7 @@ export default class Footer extends React.Component {
       <footer className="footer">
         <div className="container">
           <div className="content has-text-centered">
-            <p>Mihir Kumar Singh</p>
-            <p>Sahil Singh</p>
-            <p>Tejas Niroula</p>
+            <p></p>
           </div>
         </div>
       </footer>

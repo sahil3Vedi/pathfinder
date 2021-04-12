@@ -6,7 +6,7 @@ class Header extends React.Component {
   render() {
     return (
       <nav className="navbar">
-        <Link className="navbar-item" to="/">CSE4014</Link>
+        <Link className="navbar-item" to="/">Pathfinder</Link>
       </nav>
     );
   }
