@@ -1,11 +1,10 @@
-
-
 body {
-    background: #F7F7F7;
+    background: #112B55 !important;
+    min-height: 100vh;
 }
 
 .navbar, .footer {
-    background: #18356C;
+    background: #112B55;
     color: white;
 }
 
@@ -33,6 +32,7 @@ main {
     flex-direction: column;
     padding-top: 70px;
     padding-bottom: 70px;
+    background-color: #40e0d0;
 }
 
 
